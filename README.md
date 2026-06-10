@@ -9,7 +9,7 @@
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+This issue is about adding a user-facing warning for unindexed vector queries, with caution to avoid spamming users on small or fast searches. I think this will give me an opportunity to apply my design thinking skills while also keeping the scope focused.
 
 ---
 
