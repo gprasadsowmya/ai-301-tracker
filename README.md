@@ -1,9 +1,9 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Display warning if the index is not built for a vector column during query 
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1  
+**Student:** Sowmya Prasad   
+**Issue:** [[GitHub issue link] ](https://github.com/lance-format/lance/issues/804)  
+**Status:** Phase 1 In Progress
 
 ---
 
